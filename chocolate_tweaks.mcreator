@@ -199,6 +199,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "sledgehammer"
+    },
+    {
+      "name": "SledgehammerRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sledgehammer_recipe"
     }
   ],
   "variable_elements": [],
