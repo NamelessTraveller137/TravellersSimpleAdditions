@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chocolate_tweaks:blocks/compressedstone",
+    "up": "chocolate_tweaks:blocks/compressedstone",
+    "north": "chocolate_tweaks:blocks/compressedstone",
+    "east": "chocolate_tweaks:blocks/compressedstone",
+    "south": "chocolate_tweaks:blocks/compressedstone",
+    "west": "chocolate_tweaks:blocks/compressedstone",
+    "particle": "chocolate_tweaks:blocks/compressedstone"
+  },
+  "render_type": "solid"
+}

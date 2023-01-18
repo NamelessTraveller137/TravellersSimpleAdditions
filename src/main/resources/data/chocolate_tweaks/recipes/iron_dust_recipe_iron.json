@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chocolate_tweaks:iron_hammer"
+    },
+    {
+      "item": "minecraft:iron_ore"
+    },
+    {
+      "item": "minecraft:iron_ore"
+    }
+  ],
+  "result": {
+    "item": "chocolate_tweaks:iron_dust",
+    "count": 3
+  }
+}

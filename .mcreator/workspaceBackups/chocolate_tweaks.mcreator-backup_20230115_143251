@@ -1,0 +1,200 @@
+{
+  "mod_elements": [
+    {
+      "name": "StoneHammer",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_hammer"
+    },
+    {
+      "name": "CompressedStone",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_stone"
+    },
+    {
+      "name": "CompressedStoneRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_stone_recipe"
+    },
+    {
+      "name": "StoneHammerRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_hammer_recipe"
+    },
+    {
+      "name": "IronDust",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_dust"
+    },
+    {
+      "name": "IronDustRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_dust_recipe"
+    },
+    {
+      "name": "IronDustToIngot",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_dust_to_ingot"
+    },
+    {
+      "name": "IronHammer",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_hammer"
+    },
+    {
+      "name": "IronDustRecipeIron",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_dust_recipe_iron"
+    },
+    {
+      "name": "IronHammerRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_hammer_recipe"
+    },
+    {
+      "name": "DiamondHammer",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_hammer"
+    },
+    {
+      "name": "NetheriteHammer",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_hammer"
+    },
+    {
+      "name": "DiamondHammerRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_hammer_recipe"
+    },
+    {
+      "name": "NetheriteHammerRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_hammer_recipe"
+    },
+    {
+      "name": "IronDustRecipeDiamond",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_dust_recipe_diamond"
+    },
+    {
+      "name": "IronDustRecipeNetherite",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_dust_recipe_netherite"
+    },
+    {
+      "name": "StrawMesh",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straw_mesh"
+    },
+    {
+      "name": "StrawMeshRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straw_mesh_recipe"
+    },
+    {
+      "name": "StrawMeshFlint",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straw_mesh_flint"
+    },
+    {
+      "name": "IronDustToIngotFurnace",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_dust_to_ingot_furnace"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.chocolate_tweaks.iron_hammer": "Iron Hammer",
+      "item.chocolate_tweaks.netherite_hammer": "Netherite Hammer",
+      "item.chocolate_tweaks.stone_hammer": "Stone Hammer",
+      "item.chocolate_tweaks.straw_mesh": "Straw Mesh",
+      "block.chocolate_tweaks.compressed_stone": "Heavy Stone",
+      "item.chocolate_tweaks.iron_dust": "Iron Dust",
+      "item.chocolate_tweaks.diamond_hammer": "Diamond Hammer"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "chocolate_tweaks",
+    "modName": "ChocolateTweaks",
+    "version": "1.0.0",
+    "author": "Owner, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.chocolatetweaks",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
