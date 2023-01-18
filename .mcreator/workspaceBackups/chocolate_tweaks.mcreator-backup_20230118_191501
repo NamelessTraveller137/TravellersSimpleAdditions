@@ -159,6 +159,46 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_dust_to_ingot_furnace"
+    },
+    {
+      "name": "HammerBreak",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammer_break",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sledgehammer",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sledgehammer"
     }
   ],
   "variable_elements": [],
@@ -171,7 +211,8 @@
       "item.chocolate_tweaks.straw_mesh": "Straw Mesh",
       "block.chocolate_tweaks.compressed_stone": "Heavy Stone",
       "item.chocolate_tweaks.iron_dust": "Iron Dust",
-      "item.chocolate_tweaks.diamond_hammer": "Diamond Hammer"
+      "item.chocolate_tweaks.diamond_hammer": "Diamond Hammer",
+      "item.chocolate_tweaks.sledgehammer": "Sledgehammer"
     }
   },
   "foldersRoot": {
@@ -192,6 +233,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.chocolatetweaks",
     "lockBaseModFiles": false
   },
